@@ -1,0 +1,12 @@
+# tester
+.agents
+.claude
+skills-lock.json
+# *.md
+*.o
+*.d
+__pycache__/
+*.pyc
+*.pyo
+ircserv
+tests/test_431_regression
